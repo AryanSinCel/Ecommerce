@@ -1,5 +1,7 @@
-Ecommerce App![Simulator Screen Recording - iPhone 16 Pro - 2025-02-12 at 13 17 27](https://github.com/user-attachments/assets/60d73864-f115-4228-9120-803ff683c19f)
+![Simulator Screen Recording - iPhone 16 Pro - 2025-02-12 at 13 17 27](https://github.com/user-attachments/assets/60d73864-f115-4228-9120-803ff683c19f)
 
+
+Ecommerce App
 ==========
 
 Overview
